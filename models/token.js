@@ -1,0 +1,32 @@
+const axios = require('axios');
+require('dotenv')
+
+class Token {
+    url = 'https://api.ingrammicro.com:443/oauth/oauth20/token';
+
+
+    get paramsToken() {
+        return {
+            'grant_type': 'client_credentials',
+            'client_id': 'xHGcxZnhC4C39I6EAyCACMm4MeImIgsz',
+            'client_secret': 'hAtod6uaeZNjyqd9'
+        }
+    }
+
+
+    async obtenerToken() {
+        try {
+            const resp = await axios.get(this.url, { params: this.paramsToken });
+
+            return resp.data.access_token;
+        } catch (error) {
+            throw error;
+        }
+    }
+
+    
+}
+
+module.exports = {
+    Token
+}
