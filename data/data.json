@@ -1,0 +1,642 @@
+[
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323133",
+        "vendorPartNumber": "MLVP3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO SIERRA BLUE 256GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4569328,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323129",
+        "vendorPartNumber": "MLVF3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO SILVER 256GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4569328,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323134",
+        "vendorPartNumber": "MLVQ3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO GOLD 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5399159,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323130",
+        "vendorPartNumber": "MLVH3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO GRAPHITE 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5399159,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323135",
+        "vendorPartNumber": "MLVU3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO SIERRA BLUE 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5399159,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323132",
+        "vendorPartNumber": "MLVN3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO SILVER 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5399159,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046146",
+        "vendorPartNumber": "MHGT3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE SE BLACK 128GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 1856250,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046143",
+        "vendorPartNumber": "MHGP3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE SE BLACK 64GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 1657038,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046093",
+        "vendorPartNumber": "MGJD3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 RED 128GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 3525035,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046088",
+        "vendorPartNumber": "MGJ73LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 RED 64GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 3319328,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5199177",
+        "vendorPartNumber": "MJNP3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 PURPLE 128GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 3525035,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046089",
+        "vendorPartNumber": "MGJ83LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 BLUE 64GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 2905288,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046087",
+        "vendorPartNumber": "MGJ63LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 WHITE 64GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 2905288,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046086",
+        "vendorPartNumber": "MGJ53LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 BLACK 64GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 2905288,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5046090",
+        "vendorPartNumber": "MGJ93LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 GREEN 64GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 3319328,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5199176",
+        "vendorPartNumber": "MJNM3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 12 PURPLE 64GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 2905288,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323095",
+        "vendorPartNumber": "MLL83LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GLD 128GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4564951,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323093",
+        "vendorPartNumber": "MLL63LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GPH 128GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4564951,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323096",
+        "vendorPartNumber": "MLL93LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SR BLU 128GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4564951,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323094",
+        "vendorPartNumber": "MLL73LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SLV 128GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4564951,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323107",
+        "vendorPartNumber": "MLLM3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GLD 1TB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 6640406,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323105",
+        "vendorPartNumber": "MLLK3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GPH 1TB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 6640406,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323108",
+        "vendorPartNumber": "MLLN3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SR BLU 1TB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 6640406,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323106",
+        "vendorPartNumber": "MLLL3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SLV 1TB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 6640406,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323099",
+        "vendorPartNumber": "MLLD3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GLD 256GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4980743,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323097",
+        "vendorPartNumber": "MLLA3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GPH 256GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4980743,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323100",
+        "vendorPartNumber": "MLLE3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SR BLU 256GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4980743,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323098",
+        "vendorPartNumber": "MLLC3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SLV 256GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4980743,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323103",
+        "vendorPartNumber": "MLLH3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GLD 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5810574,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323101",
+        "vendorPartNumber": "MLLF3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX GPH 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5810574,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323104",
+        "vendorPartNumber": "MLLJ3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SR BLU 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5810574,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5323102",
+        "vendorPartNumber": "MLLG3LZ/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "IPHONE 13 PRO MAX SLV 512GB-LAE",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5810574,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5345684",
+        "vendorPartNumber": "MK193E/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBP 16.2 SG M1 16C GPU 16GB 1TB SPA",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 11200051,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5345720",
+        "vendorPartNumber": "MKGQ3E/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBP 14.2 SG 10C CPU 16C GPU 1TB SPA",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 10394235,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5345719",
+        "vendorPartNumber": "MKGP3E/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBP 14.2 SG M1 8C CPU 14C GPU 512GB SPA",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 8380285,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5345683",
+        "vendorPartNumber": "MK183E/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBP 16.2 SG M1 16C GPU 16GB 512GB SPA",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 10394235,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5114196",
+        "vendorPartNumber": "MGN63LA/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBA 13.3 SPG/8C CPU/7C GPU/8GB/256GB-LAM",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 4028280,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5114197",
+        "vendorPartNumber": "MGN73LA/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBA 13.3 SPG/8C CPU/8C GPU/8GB/512GB-LAM",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5035551,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5114202",
+        "vendorPartNumber": "MYD82LA/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBP 13.3 SPG/8C CPU/8C GPU/8GB/256GB-LAM",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 5237005,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    },
+    {
+        "productStatusCode": "S",
+        "ingramPartNumber": "5114203",
+        "vendorPartNumber": "MYD92LA/A",
+        "vendorName": "APPLE COLOMBIA SAS",
+        "description": "MBP 13.3 SPG/8C CPU/8C GPU/8GB/512GB-LAM",
+        "uom": "EA",
+        "endUserInfoRequired": false,
+        "pricing": {
+            "currencyCode": "COP",
+            "retailPrice": 1,
+            "customerPrice": 6042823,
+            "specialBidPricingAvailable": false,
+            "webDiscountsAvailable": false
+        }
+    }
+]

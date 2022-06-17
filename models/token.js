@@ -1,7 +1,8 @@
 const axios = require('axios');
-require('dotenv')
+const fs = require('fs');
 
 class Token {
+    ruta = './Tokens.env'
     url = 'https://api.ingrammicro.com:443/oauth/oauth20/token';
 
 
@@ -17,16 +18,14 @@ class Token {
     async obtenerToken() {
         try {
             const resp = await axios.get(this.url, { params: this.paramsToken });
-
-            return resp.data.access_token;
+            const data =  "TOKEN=" + resp.data.access_token;
+            fs.writeFileSync(this.ruta, data);
         } catch (error) {
             throw error;
         }
     }
-
-    
 }
 
-module.exports = {
-    Token
-}
+const token = new Token();
+
+token.obtenerToken();
