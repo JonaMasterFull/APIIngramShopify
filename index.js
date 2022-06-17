@@ -150,13 +150,10 @@ const main = async () => {
 
     const token = new Token();
     const buscar = new Busqueda();
-    
+
     const codigo = await token.obtenerToken();
     const dato = await buscar.buscarPrecios(codigo, '5322783');
 
-    result.push(dato);
-
-    console.log(result);
 
         
 }
