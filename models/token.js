@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 class Token {
-    ruta = './Tokens.env'
+    ruta = '../.env'
     url = 'https://api.ingrammicro.com:443/oauth/oauth20/token';
 
 
@@ -19,7 +19,7 @@ class Token {
         try {
             const resp = await axios.get(this.url, { params: this.paramsToken });
             const data =  "TOKEN=" + resp.data.access_token;
-            fs.writeFileSync(this.ruta, data);
+            return data;
         } catch (error) {
             throw error;
         }
@@ -28,4 +28,9 @@ class Token {
 
 const token = new Token();
 
-token.obtenerToken();
+const tokens = async() =>{
+    const nuevo = await token.obtenerToken();
+    console.log(nuevo);
+}
+
+tokens();
