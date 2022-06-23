@@ -26,8 +26,8 @@ class Obtener {
             })
         }
         fs.writeFileSync(this.guardarurl, JSON.stringify(this.arrays))
-        const precios = chunks(this.arrays, 50);
-        return precios;
+
+        return this.arrays;
     }
 }
 

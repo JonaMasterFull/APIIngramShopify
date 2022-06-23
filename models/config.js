@@ -25,6 +25,17 @@ class Config {
 
         return ajustes;
     }
+
+    async configAxiosShopify(){
+        let ajustes = {
+            headers: {
+                'X-Shopify-Access-Token': process.env.SHOPIFY_TOKEN, 
+                'Content-Type': 'application/json'
+            }
+        }
+
+        return ajustes;
+    }
 }
 
 module.exports = {

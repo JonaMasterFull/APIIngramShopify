@@ -14,16 +14,20 @@ const main = async () => {
 
 
     const url = `https://api.ingrammicro.com:443/resellers/v6/catalog/priceandavailability`;
+
     const config =  await configRequest.configAxios();
     
     const valor = await prices.pricesIngram(url,sku,config)
 
     const arr = await shids.ObtenerArreglo()
 
-    const actualizado = await actualizar.ActualizarPrecios(valor, arr);
+    const dataShopify = await actualizar.ActualizarPrecios(valor, arr);
 
-    console.log(actualizado);
+    const configShopify = await configRequest.configAxiosShopify();
 
+    const dataEnviada = await actualizar.PutShopifyCost(dataShopify, configShopify)
+
+    console.log(dataEnviada);
 }
 
 main()

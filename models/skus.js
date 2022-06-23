@@ -138,7 +138,8 @@ let sku = [
 { "ingramPartNumber": "5114196"},
 { "ingramPartNumber": "5114197"},
 { "ingramPartNumber": "5114202"},
-{ "ingramPartNumber": "5114203"}
+{ "ingramPartNumber": "5114203"},
+{ "ingramPartNumber": "5333665"}
         ];
 
 module.exports = {

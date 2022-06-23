@@ -14,7 +14,7 @@ class ShopyIds {
                 'X-Shopify-Access-Token': process.env.SHOPIFY_TOKEN
             },
             params: {
-                'limit': 141
+                'limit': 200
             }
         });
 
@@ -22,14 +22,10 @@ class ShopyIds {
             return { id: product.variants[0].inventory_item_id, sku:product.variants[0].sku }   
         });
 
-        const products = chunks(ids, 50);
-        for (const data of products) {
+        fs.writeFileSync(this.guardarurl, JSON.stringify(ids))
 
-            this.arrayID.push(data);
-            fs.writeFileSync(this.guardarurl, JSON.stringify(this.arrayID))
-        }
         
-        return this.arrayID;
+        return ids;
     }
 }
 
