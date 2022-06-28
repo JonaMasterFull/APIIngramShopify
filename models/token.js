@@ -1,16 +1,17 @@
 const axios = require('axios');
 const fs = require('fs');
+require('dotenv').config()
 
 class Token {
-    static ruta = '../.env'
-    static url = 'https://api.ingrammicro.com:443/oauth/oauth20/token';
+    ruta = '../.env'
+    url = 'https://api.ingrammicro.com:443/oauth/oauth20/token';
 
 
     get paramsToken() {
         return {
             'grant_type': 'client_credentials',
-            'client_id': 'xHGcxZnhC4C39I6EAyCACMm4MeImIgsz',
-            'client_secret': 'hAtod6uaeZNjyqd9'
+            'client_id': process.env.CLIENT_ID,
+            'client_secret': process.env.CLIENT_SECRET
         }
     }
 
