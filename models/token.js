@@ -18,7 +18,7 @@ class Token {
     async obtenerToken() {
         try {
             const resp = await axios.get(this.url, { params: this.paramsToken });
-            const data =  "TOKEN=" + resp.data.access_token;
+            const data = resp.data.access_token;
             return data;
         } catch (error) {
             throw error;
@@ -31,6 +31,7 @@ const token = new Token();
 const tokens = async() =>{
     const nuevo = await token.obtenerToken();
     console.log(nuevo);
+    process.env.TOKEN = nuevo;
 }
 
 tokens();
