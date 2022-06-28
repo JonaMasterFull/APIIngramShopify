@@ -1,8 +1,7 @@
 require('dotenv').config()
 
 class Config {
-
-
+    
     get paramsPriceAvailability(){
         return {
             'includeAvailability': false,

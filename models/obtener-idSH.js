@@ -4,8 +4,7 @@ const chunks = require('chunk-array').chunks
 const fs = require("fs");
 
 class ShopyIds {
-    arrayID = [];
-    guardarurl = './data/data2.json'
+    static guardarurl = './data/data2.json'
 
     async ObtenerArreglo(){
         const resp = await axios.get('https://brightmanstore.myshopify.com/admin/api/2022-04/products.json', { 

@@ -3,8 +3,8 @@ const axios = require("axios");
 const fs = require("fs");
 
 class Obtener {
-    arrays = [];
-    guardarurl = './data/data.json';
+    static arrays = [];
+    static guardarurl = './data/data.json';
 
     constructor(){
 

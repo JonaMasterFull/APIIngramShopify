@@ -3,7 +3,7 @@ const axios = require('axios');
 const chunks = require('chunk-array').chunks
 
 class ActualizarPrecios{
-    guardarurl = './data/data3.json';
+    static guardarurl = './data/data3.json';
 
     async ActualizarPrecios(costo, ids){
         let putPrices = costo.map((item) => {

@@ -2,8 +2,8 @@ const axios = require('axios');
 const fs = require('fs');
 
 class Token {
-    ruta = '../.env'
-    url = 'https://api.ingrammicro.com:443/oauth/oauth20/token';
+    static ruta = '../.env'
+    static url = 'https://api.ingrammicro.com:443/oauth/oauth20/token';
 
 
     get paramsToken() {
