@@ -31,7 +31,6 @@ const token = new Token();
 const tokens = async() =>{
     const nuevo = await token.obtenerToken();
     console.log(nuevo);
-    process.env.TOKEN = nuevo;
 }
 
 tokens();
